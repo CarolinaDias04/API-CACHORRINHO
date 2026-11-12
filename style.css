@@ -1,0 +1,14 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            text-align: center;
+            font-size: 30px;
+            font-family: 'Times New Roman', Times, serif;
+            color: rgb(253, 23, 27);
+            background-color: rgb(238, 167, 209);
+        }
+  
